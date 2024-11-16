@@ -16,13 +16,8 @@
 <br>
 -> 📫 How to reach me
 <br>
-  Email-
-  itsvanimoksh888@gmail.com
-  <br>
-  Linkedin-
-  https://www.linkedin.com/in/vani-jain-a639a7292
+https://connect-with-vani.my.canva.site/
   
-
 <!---
 vani692/vani692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

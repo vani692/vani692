@@ -16,7 +16,7 @@
 <br>
 -> 📫 How to reach me
 <br>
-https://connect-with-vani.my.canva.site/
+https://linktr.ee/vanijain88
   
 <!---
 vani692/vani692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
